@@ -1,0 +1,47 @@
+chest_pain
+cough
+fainting
+fatigue
+headache
+back_pain
+sunken_eyes
+fever
+sore_throat
+restlessness
+bleeding easily
+bruising easily
+poor appetite
+dark urine
+swelling in the legs
+Weightless
+difficulty_swallowing')
+increased_saliva
+ausea_and_vomiting
+Breathing_problems
+tinnitus
+laziness
+fast_heartbeat
+overweight
+stomach_pain
+frequent_urination
+burning_urine
+blood_in_urine
+Eye_burning
+sensitivity_to_light
+eye_redness
+Feeling_of_having_something_in_the_eye
+Difficulty_wearing_lenses
+blurred_vision
+incress_tears
+sebaceous_eye_bag
+Peeling_of_the_eyelid_skin
+eyelid_adhesion
+Increased_thirst_and_the_urge_to_urinate
+Feeling_more_hungry
+Difficulty_healing_wounds
+Red_and_swollen_gums
+Red_patches_of_skin_covered_with_silvery_scales
+Dry_skin
+For itching, burning, or soreness
+Nails_that_are_thick_or_have_pits_or_edges
+Joint_swelling_or_stiffness')
