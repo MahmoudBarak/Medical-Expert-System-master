@@ -68,7 +68,7 @@ class MedicalExpert(KnowledgeEngine):
         self.declare(Fact(headache = self.headache.strip().lower()))
     
     # @Rule(Fact(findDisease='true'), (Fact(headache = 'yes')),salience = 960)
-    # def hasSevereheadache(self):
+    # def hasSevereheadache(self):yb
     #     self.severe_headache = input("\nIs it too severe?\nPlease type Yes/No\n")
     #     self.declare(Fact(severe_headache = self.severe_headache.strip().lower()))
 
